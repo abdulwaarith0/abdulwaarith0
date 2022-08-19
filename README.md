@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
-- 🤝 I’m looking for help with **Golang**
+- 🤝 I’m looking for help with **Golang, Internships**
 
 - 💬 Ask me about **html/css react**
 
