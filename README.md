@@ -6,15 +6,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwaarith0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwaarith0" /> </p>
 
-- 🌱 I’m currently learning **React-Native, Golang**
+- 🌱 I’m currently learning **React-Native, Golang.**
 
-- 👯 I’m looking to collaborate on **Open-source Projects**
+- 👯 I’m looking to collaborate on **Open-source Projects,**
 
-- 🤝 I’m looking for help with **Golang, Internships**
+- 🤝 I’m looking for help with **Golang, Internships.**
 
-- 💬 Ask me about **html/css react**
+- 💬 Ask me about **html/css react.**
 
 - 📫 How to reach me **abdulwaarithz@gmail.com**
+
+- ⚡ Fun fact **I'm currently studying at Altschool Africa School of Engineering class 2022.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
