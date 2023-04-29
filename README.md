@@ -1,7 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdulwaarith Zakariyya</h1>
-<h3 align="center">A passionate Full-stack web developer from Nigeria</h3>
+<h3 align="center">I am a self-taught MERN Stack developer with a passion for building dynamic web applications, I have experience using MongoDB, Express, React, and Node.js to create responsive and scalable web applications.
+I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in the MERN Stack industry.
+• Building interactive frontend interfaces with React
+• Creating RESTful APIs with Node and Express
+• Exploring the latest web technologies
+• Solving complex problems
+• Always learning and improving my coding skills
+My stacks are: MERN Full Stack Developer || MongoDB || Node js || Express || JavaScript || React js ||  Rest API || Frontend Developer
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwaarith0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwaarith0" /> </p>
 
