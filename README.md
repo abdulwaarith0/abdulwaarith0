@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Abdulwaarith Zakariyya</h1>
-<h3>I am a self-taught MERN Stack developer with a passion for building dynamic web applications, I have experience using MongoDB, Express, React, and Node.js to create responsive and scalable web applications and I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in the MERN Stack industry.
+<h3>I am a MERN Stack developer with a passion for building dynamic web applications, I have experience using MongoDB, Express, React, and Node.js to create responsive and scalable web applications and I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in the MERN Stack industry.
  </h3>
  <ul>
    <li> Building interactive frontend interfaces with React</li>
