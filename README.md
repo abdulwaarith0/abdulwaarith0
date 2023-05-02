@@ -2,21 +2,21 @@
 
 <h1 align="center">Hi 👋, I'm Abdulwaarith Zakariyya</h1>
 <h3>I am a self-taught MERN Stack developer with a passion for building dynamic web applications, I have experience using MongoDB, Express, React, and Node.js to create responsive and scalable web applications and I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in the MERN Stack industry.
-  <ul>
-    <li> Building interactive frontend interfaces with React</li>
-    <li>Creating RESTful APIs with Node and Express</li>
-    <li>Exploring the latest web technologies</li>
-    <li>Solving complex problems</li>
-    <li>Always learning and improving my coding skills</li>
-  </ul> 
-<p>My stacks are: MERN Full Stack Developer || MongoDB || Node js || Express || JavaScript || React js ||  Rest API || Frontend Developer </p>
+ <ul>
+   <li> Building interactive frontend interfaces with React</li>
+   <li>Creating RESTful APIs with Node and Express</li>
+   <li>Exploring the latest web technologies</li>
+   <li>Solving complex problems</li>
+   <li>Always learning and improving my coding skills</li>
+ </ul> 
+<p>My stacks are: MongoDB || Node js || Express || JavaScript || React js ||  Rest API || Frontend Developer </p>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwaarith0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwaarith0" /> </p>
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
-- 🤝 I’m looking for help with **Golang**
+- 🤝 I’m looking for help with **Internship**
 
 - 💬 Ask me about **html/css react**
 
