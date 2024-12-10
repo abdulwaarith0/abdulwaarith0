@@ -1,7 +1,10 @@
 
 
-<h1 align="left">Hi 👋, I'm Abdulwaarith Zakariyya</h1>
-<h3>I am a MERN Stack developer with a passion for building dynamic web applications, I have experience using MongoDB, Express, React, and Node.js to create responsive and scalable web applications and I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in the MERN Stack industry.
+<h1 align="left">Hello 👋, I'm Abdulwaarith Zakariyya</h1>
+<h3>
+I am a passionate Full-Stack Web Developer, I bring a comprehensive skill set that includes proficiency in front-end and back-end technologies, with a strong focus on the MERN stack (MongoDB, Express.js, React/Typescript and Node.js), as well as notable experience in Rust. My technical expertise extends to responsive frameworks, modern databases, and adherence to best coding practices.
+
+My goal is to excel as a web developer, contributing significantly to the technology sector with my knowledge and skills. I am committed to continuous learning, constantly enhancing my abilities through online courses and staying abreast of the latest trends and techniques in web development.
  </h3>
  <ul>
    <li> Building interactive frontend interfaces with React</li>
@@ -10,7 +13,7 @@
    <li>Solving complex problems</li>
    <li>Always learning and improving my coding skills</li>
  </ul> 
-<p>My stacks are: MongoDB || Node js || Express || JavaScript || React js ||  Rest API || Frontend Developer </p>
+<p>My stacks are:  Rust || JavaScript || React.js/TypeScript || Node.js || MongoDB || Express ||  Rest API || Html || Css </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwaarith0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwaarith0" /> </p>
 
@@ -22,7 +25,7 @@
 
 - 📫 How to reach me **abdulwaarithz@gmail.com**
 
-- ⚡ Fun fact **I'm currently studying at Altschool Africa School of Engineering class 2022**
+- ⚡ Fun fact **I studied at Altschool Africa School of Engineering class 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
