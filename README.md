@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hello 👋, I'm Abdulwaarith Zakariyya</h1>
+<h1 align="left">Hello 👋, I'm Abdulwaarith</h1>
 <h3>
 I am a passionate Full-Stack Web Developer, I bring a comprehensive skill set that includes proficiency in front-end and back-end technologies, with a strong focus on the MERN stack (MongoDB, Express.js, React/Typescript and Node.js), as well as notable experience in Rust. My technical expertise extends to responsive frameworks, modern databases, and adherence to best coding practices.
 
