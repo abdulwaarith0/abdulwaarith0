@@ -48,10 +48,6 @@
   <img src="https://streak-stats.demolab.com/?user=abdulwaarith0&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwaarith0&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
 <p align="center">
