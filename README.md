@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/abdulwaarith_z"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="24" width="30"/></a>
-  <a href="https://linkedin.com/in/abdulwaarith-zakariyya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="24" width="30"/></a>
+  <a href="https://twitter.com/javamind_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="24" width="30"/></a>
+  <a href="https://linkedin.com/in/abdulwaarith-javamind/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="24" width="30"/></a>
   <a href="https://dev.to/abdulwaarith"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="24" width="30"/></a>
   <a href="https://dribbble.com/_abdulwaarith"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="24" width="30"/></a>
 </p>
