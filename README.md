@@ -1,45 +1,51 @@
+<h1 align="center">Hey, I'm Abdulwaarith 👋</h1>
 
-
-<h1 align="left">Hello 👋, I'm Abdulwaarith</h1>
-<h3>
-I am a passionate Full-Stack Web Developer, I bring a comprehensive skill set that includes proficiency in front-end and back-end technologies, with a strong focus on the MERN stack (MongoDB, Express.js, React/Typescript and Node.js), as well as notable experience in Rust. My technical expertise extends to responsive frameworks, modern databases, and adherence to best coding practices.
-
-My goal is to excel as a web developer, contributing significantly to the technology sector with my knowledge and skills. I am committed to continuous learning, constantly enhancing my abilities through online courses and staying abreast of the latest trends and techniques in web development.
- </h3>
- <ul>
-   <li> Building interactive frontend interfaces with React</li>
-   <li>Creating RESTful APIs with Node and Express</li>
-   <li>Exploring the latest web technologies</li>
-   <li>Solving complex problems</li>
-   <li>Always learning and improving my coding skills</li>
- </ul> 
-<p>My stacks are:  Rust || JavaScript || React.js/TypeScript || Node.js || MongoDB || Express ||  Rest API || Html || Css </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwaarith0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwaarith0" /> </p>
-
-- 👯 I’m looking to collaborate on **Open-source Projects**
-
-- 🤝 I’m looking for help with **Internship**
-
-- 💬 Ask me about **html/css react**
-
-- 📫 How to reach me **abdulwaarithz@gmail.com**
-
-- ⚡ Fun fact **I studied at Altschool Africa School of Engineering class 2022**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/abdulwaarith zakariyya alani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulwaarith zakariyya alani" height="30" width="40" /></a>
-<a href="https://twitter.com/abdulwaarith_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulwaarith_z" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulwaarith zakariyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulwaarith zakariyya" height="30" width="40" /></a>
-<a href="https://dribbble.com/_abdulwaarith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="_abdulwaarith" height="30" width="40" /></a>
+<p align="center">
+  <b>Full-Stack Engineer · DevOps · Systems Programmer</b><br/>
+  Building fast, scalable web experiences — from Rust backends to React frontends.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://twitter.com/abdulwaarith_z"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="24" width="30"/></a>
+  <a href="https://linkedin.com/in/abdulwaarith-zakariyya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="24" width="30"/></a>
+  <a href="https://dev.to/abdulwaarith"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="24" width="30"/></a>
+  <a href="https://dribbble.com/_abdulwaarith"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="24" width="30"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulwaarith0&show_icons=true&locale=en&layout=compact" alt="abdulwaarith0" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulwaarith0&show_icons=true&locale=en" alt="abdulwaarith0" /></p>
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwaarith0&" alt="abdulwaarith0" /></p>
+- 🔨 Building full-stack web apps with **Next.js, TypeScript, React & Node.js**
+- 🦀 Writing backend services and systems-level code in **Rust**
+- ☁️ Deploying and scaling with **AWS, Docker & DevOps tooling**
+- 🎓 AltSchool Africa — School of Engineering, Class of 2022
+- 📬 **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="62030006170e150303100b160a1822050f030b0e4c010d0f">[email&#160;protected]</a>**
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+`React` `Next.js` `TypeScript` `styled-components` `HTML/CSS` `Sass` `Redux`
+
+**Backend**
+`Node.js` `Express` `Rust` `REST APIs` `MongoDB`
+
+**DevOps & Cloud**
+`AWS` `Docker` `Git` `Bash` `Linux` `Azure` `GCP`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulwaarith0&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulwaarith0&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwaarith0&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
