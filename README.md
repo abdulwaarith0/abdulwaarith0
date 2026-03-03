@@ -20,7 +20,7 @@
 - 🦀 Writing backend services and systems-level code in **Rust**
 - ☁️ Deploying and scaling with **AWS, Docker & DevOps tooling**
 - 🎓 AltSchool Africa — School of Engineering, Class of 2022
-- 📬 **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="62030006170e150303100b160a1822050f030b0e4c010d0f">[email&#160;protected]</a>**
+- 📬 **abdulwaarithz@gmail.com**
 
 ---
 
@@ -40,12 +40,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulwaarith0&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulwaarith0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulwaarith0&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwaarith0&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=abdulwaarith0&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwaarith0&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulwaarith0&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
