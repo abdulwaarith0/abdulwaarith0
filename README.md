@@ -19,8 +19,20 @@
 - 🔨 Building full-stack web apps with **Next.js, TypeScript, React & Node.js**
 - 🦀 Writing backend services and systems-level code in **Rust**
 - ☁️ Deploying and scaling with **AWS, Docker & DevOps tooling**
+- 🌍 Active **open-source contributor** across TypeScript & Rust projects
 - 🎓 AltSchool Africa — School of Engineering, Class of 2022
 - 📬 **abdulwaarithz@gmail.com**
+
+---
+
+### 🌱 Open Source
+
+Active open-source contributor — regularly shipping fixes and features to production TypeScript & Rust codebases.
+Browse my <a href="https://github.com/abdulwaarith0?tab=repositories">repositories</a> and <a href="https://github.com/search?q=is%3Apr+author%3Aabdulwaarith0&type=pullrequests">pull requests</a>.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwaarith0&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
 ---
 
