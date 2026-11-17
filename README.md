@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Engineer · DevOps · Systems Programmer</b><br/>
-  Web apps and backends in TypeScript, Python & Rust.
+  Building fast, scalable web experiences — from Rust backends to React frontends.
 </p>
 
 <p align="center">
@@ -16,32 +16,32 @@
 
 ### 🧠 About Me
 
-- 🔨 Full-stack apps with **Next.js, React, TypeScript & Node.js**
-- 🦀 Backends in **Rust** and **Python (FastAPI)**
-- ☁️ Shipping with **Docker & AWS**
-- 🚀 Latest: [Wazn](https://github.com/abdulwaarith0/wazn), a web game for learning Arabic roots ([live](https://abdulwaarith0.github.io/wazn/))
-- 🎓 AltSchool Africa, School of Engineering, Class of 2022
+- 🔨 Building full-stack web apps with **Next.js, TypeScript, React & Node.js**
+- 🦀 Writing backend services and systems-level code in **Rust**
+- ☁️ Deploying and scaling with **AWS, Docker & DevOps tooling**
+- 🌍 Active **open-source contributor** across TypeScript & Rust projects
+- 🎓 AltSchool Africa — School of Engineering, Class of 2022
 - 📬 **abdulwaarithz@gmail.com**
 
 ---
 
 ### 🌱 Open Source
 
-Merged PRs to [Soup](https://github.com/MakazhanAlpamys/Soup) (40+), [KnightVerse](https://github.com/OpenKnight-Foundation/KnightVerse), [Polkadot SDK](https://github.com/paritytech/polkadot-sdk) and [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp).
-See my <a href="https://github.com/abdulwaarith0?tab=repositories">repositories</a> and <a href="https://github.com/search?q=is%3Apr+author%3Aabdulwaarith0&type=pullrequests">pull requests</a>.
+Active open-source contributor — regularly shipping fixes and features to production TypeScript & Rust codebases.
+Browse my <a href="https://github.com/abdulwaarith0?tab=repositories">repositories</a> and <a href="https://github.com/search?q=is%3Apr+author%3Aabdulwaarith0&type=pullrequests">pull requests</a>.
 
 ---
 
 ### 🛠 Tech Stack
 
 **Frontend**
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Redux`
+`React` `Next.js` `TypeScript` `styled-components` `HTML/CSS` `Sass` `Redux`
 
 **Backend**
-`Node.js` `Express` `Python` `FastAPI` `Rust` `PostgreSQL` `MongoDB` `Redis`
+`Node.js` `Express` `Rust` `REST APIs` `MongoDB`
 
 **DevOps & Cloud**
-`AWS` `Docker` `GitHub Actions` `Linux` `Bash`
+`AWS` `Docker` `Git` `Bash` `Linux` `Azure` `GCP`
 
 ---
 
